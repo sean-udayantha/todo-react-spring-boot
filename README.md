@@ -23,7 +23,6 @@
    cd todo-react-spring-boot
 
    ```
-   
 2. **steup frontend**:
    ```bash
    cd frontend
